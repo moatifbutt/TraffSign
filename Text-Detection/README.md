@@ -23,7 +23,7 @@ The following files must be downloaded for successful setup.
     Please download the Traffsign dataset from our google drive [link](https://drive.google.com/drive/folders/1Z4oMlx-_vOX9xzrYw4hLiEBYjequ32UK?usp=sharing).
     After completion, put the training and test folders in `dataset` directory.
 2. **Backbone Network**:
-	  Please download the backbone model from our google drive link and put into `.\tmp\backbone_net`.
+	  Please download the backbone model from our google drive [link](https://drive.google.com/file/d/1dT_jpqdRusGJSk_GoR9TE1DAFj5Nblnj/view?usp=sharing) and put into `.\tmp\backbone_net`.
 3. **pretrained Model**: 
 	  Please download the backbone model from our google drive link and put into `.\tmp`.
 	  
